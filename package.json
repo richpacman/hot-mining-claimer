@@ -1,0 +1,27 @@
+{
+  "name": "hot-mining-claimer",
+  "version": "1.0.0",
+  "description": "Hot Mining Claimer",
+  "main": "src/claimer.ts",
+  "scripts": {
+    "start": "tsx src/claimer.ts"
+  },
+  "keywords": [
+    "hot-coin",
+    "mining",
+    "script",
+    "automation"
+  ],
+  "author": "therichpacman@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "dotenv": "^16.4.5",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "near-api-js": "^3.0.3"
+  },
+  "type": "module"
+}
