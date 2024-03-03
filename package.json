@@ -1,6 +1,6 @@
 {
   "name": "hot-mining-claimer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hot Mining Claimer",
   "main": "src/claimer.ts",
   "scripts": {
